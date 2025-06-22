@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Software Developer | Flutter Enthusiast | Python Programmer <br/>
-  📍 Palakkad, Kerala &nbsp;|&nbsp; 📧 your.email@example.com &nbsp;|&nbsp; 📱 +91-XXXXXXXXXX
+  📍 Palakkad, Kerala &nbsp;|&nbsp; 📧 gopiaswin@gmail.com &nbsp;|&nbsp; 📱 +91 7025031266
 </p>
 
 <p align="center">
@@ -64,8 +64,8 @@
 
 ## 🌐 Let's Connect
 
-📫 **Email:** your.email@example.com  
-📱 **Phone:** +91-XXXXXXXXXX  
+📫 **Email:** gopiaswin@gmail.com 
+📱 **Phone:** +91 7025031266  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/your-link)  
 💻 [**GitHub**](https://github.com/aswin-gopi)
 
