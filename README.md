@@ -53,18 +53,10 @@
 
 ---
 
-## 📱 Featured Project
-
-### 🔹 E-Commerce Mobile App
-**Tech:** `Flutter`  
-**Role:** Full App Developer  
-**Summary:** A user-friendly, fully functional mobile shopping app with modern UI/UX design and complete shopping workflow.
-
----
 
 ## 🌐 Let's Connect
 
-📫 **Email:** gopiaswin@gmail.com 
+📫 **Email:** gopiaswin@gmail.com | 
 📱 **Phone:** +91 7025031266  
 🔗 [**LinkedIn**](www.linkedin.com/in/aswin-gopi-232822313)  
 💻 [**GitHub**](https://github.com/aswin-gopi)
