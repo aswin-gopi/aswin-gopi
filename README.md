@@ -56,7 +56,7 @@
 
 ## 🌐 Let's Connect
 
-📫 **Email:** gopiaswin@gmail.com | 
+📫 **Email:** gopiaswin@gmail.com  | 
 📱 **Phone:** +91 7025031266  
 🔗 [**LinkedIn**](www.linkedin.com/in/aswin-gopi-232822313)  
 💻 [**GitHub**](https://github.com/aswin-gopi)
