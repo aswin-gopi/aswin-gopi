@@ -1,64 +1,84 @@
-# 👋 Hello, I'm Aswin Gopi
+<h1 align="center">👋 Hi, I'm Aswin Gopi</h1>
 
-🚀 Passionate Software Developer | Flutter Enthusiast | Python Programmer  
-📍 Palakkad, Kerala | 📧 your.email@example.com | 📱 +91-XXXXXXXXXX  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View-blue?logo=linkedin)](https://www.linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-aswin--gopi-181717?logo=github)](https://github.com/aswin-gopi)
+<p align="center">
+  🚀 Software Developer | Flutter Enthusiast | Python Programmer <br/>
+  📍 Palakkad, Kerala &nbsp;|&nbsp; 📧 your.email@example.com &nbsp;|&nbsp; 📱 +91-XXXXXXXXXX
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/aswin-gopi"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-aswin--gopi-181717?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
 
-## 🎯 Objective
+## 🎯 About Me
 
-I am a passionate and dedicated software developer currently pursuing MCA, with hands-on experience in **Flutter**, **Python**, and full-stack technologies. I aim to contribute to innovative tech solutions that improve lives and businesses, while continuously expanding my skillset through practical experience.
+💻 I’m a passionate **Software Developer** pursuing **MCA**, focused on building impactful tech solutions.  
+🌱 Continuously exploring the latest trends in **Flutter**, **Python**, and **full-stack** development.  
+🛠️ I love turning complex challenges into elegant user-friendly apps.  
 
 ---
 
 ## 🎓 Education
 
-- **MCA** – LEAD College of Management, Palakkad *(Currently Pursuing)*
-- **BSc Computer Science** – Passed with **67%**
-- **12th Grade** – **74%**
-- **10th Grade** – **72%**
+- 🎓 **MCA** – LEAD College of Management, Palakkad *(Pursuing)*  
+- 🎓 **BSc Computer Science** – 67%  
+- 🎓 **12th Grade** – 74%  
+- 🎓 **10th Grade** – 72%  
 
 ---
 
-## 💡 Skills
+## 💡 Tech Stack & Skills
 
-- **Languages:** Flutter, Python, C++, Java, JavaScript, Node.js  
-- **Frameworks & Tools:** Zoho CRM, Angular, Express, MongoDB, Canva  
-- **Cloud & Data:** Microsoft Azure Data Fundamentals  
-- **Forensics:** Digital & Windows OS Forensics, Registry Analysis, Oracle Computer Forensics  
-- **Others:** Social Media Automation, E-commerce App Development
+### 🧑‍💻 Languages
+`Flutter` `Python` `C++` `Java` `JavaScript` `Node.js`
+
+### ⚙️ Frameworks & Tools
+`Zoho CRM` `Angular` `Express` `MongoDB` `Canva`
+
+### ☁️ Cloud / Database
+`Azure Data Fundamentals` `Firebase` `Oracle`
+
+### 🕵️‍♂️ Digital Forensics
+`Windows OS Forensics` `Registry Analysis` `Oracle Forensics`
+
+### 🔧 Other Tools
+`Social Media Automation` `E-commerce App Development`
 
 ---
 
 ## 📜 Certifications
 
-- Flutter Development  
-- Python Developer  
-- C++ Training Completion  
-- Microsoft Azure: Explore Relational Data in Azure  
-- Coursera: Angular, Node.js, Express & MongoDB  
-- Canva: Desktop & Mobile Web Design  
-- Digital Forensics: OS, Registry, and Oracle Tools  
-- Java Training Completion  
+- ✅ Flutter App Development  
+- ✅ Python Developer  
+- ✅ C++ Training Completion  
+- ✅ Microsoft Azure (Relational Data in Azure)  
+- ✅ Coursera: Angular, Node.js, Express & MongoDB  
+- ✅ Canva: Web Design (Desktop & Mobile)  
+- ✅ Digital Forensics (OS, Registry, Oracle Tools)  
+- ✅ Java Training Completion  
 
 ---
 
+## 📱 Featured Project
 
 ### 🔹 E-Commerce Mobile App
-- **Tech Stack:** Flutter  
-- **Role:** Full App Developer  
-- **Description:** A fully functional, user-friendly shopping app with modern UI/UX.
+**Tech:** `Flutter`  
+**Role:** Full App Developer  
+**Summary:** A user-friendly, fully functional mobile shopping app with modern UI/UX design and complete shopping workflow.
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let's Connect
 
-- 📫 Email: **your.email@example.com**  
-- 📱 Phone: **+91-XXXXXXXXXX**  
-- 🔗 LinkedIn: [your-link](https://www.linkedin.com/in/your-link)  
-- 💻 GitHub: [aswin-gopi](https://github.com/aswin-gopi)
+📫 **Email:** your.email@example.com  
+📱 **Phone:** +91-XXXXXXXXXX  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/your-link)  
+💻 [**GitHub**](https://github.com/aswin-gopi)
 
+---
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aswin-gopi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
