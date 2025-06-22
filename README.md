@@ -20,14 +20,6 @@
 
 ---
 
-## 🎓 Education
-
-- 🎓 **MCA** – LEAD College of Management, Palakkad *(Pursuing)*  
-- 🎓 **BSc Computer Science** – 67%  
-- 🎓 **12th Grade** – 74%  
-- 🎓 **10th Grade** – 72%  
-
----
 
 ## 💡 Tech Stack & Skills
 
